@@ -1,5 +1,5 @@
 Settings:
 
-yarn add typescrypt -D
-yarn tsc --init
-yarn add ts-node-dev -D
+yarn add typescrypt -D <br>
+yarn tsc --init <br>
+yarn add ts-node-dev -D <br>
